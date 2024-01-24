@@ -1,6 +1,6 @@
 {
-  "commit": "ed9a4bdb6954a1a4f61a7085a547adfe6bd2e9d9",
-  "generated": "2024-01-24T04:15:41.666Z",
+  "commit": "40a34d96f46ff366a9cff1bbed533b2eca7383c3",
+  "generated": "2024-01-24T04:15:57.399Z",
   "metadata": [
     {
       "__outstatic": {
@@ -139,8 +139,8 @@
     },
     {
       "__outstatic": {
-        "commit": "ed9a4bdb6954a1a4f61a7085a547adfe6bd2e9d9",
-        "hash": "2403647503",
+        "commit": "40a34d96f46ff366a9cff1bbed533b2eca7383c3",
+        "hash": "2157823333",
         "path": "outstatic/content/posts/beyond-social-media-hype.md"
       },
       "author": {
@@ -152,7 +152,7 @@
       "description": "",
       "publishedAt": "2024-01-24T03:36:24.032Z",
       "slug": "beyond-social-media-hype",
-      "status": "draft",
+      "status": "published",
       "tags": [
         {
           "label": "Social Media",
