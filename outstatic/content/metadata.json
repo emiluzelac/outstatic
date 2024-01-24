@@ -1,6 +1,6 @@
 {
-  "commit": "f1d49d79a01c1d85981f368c71944529e6583183",
-  "generated": "2024-01-24T00:37:32.277Z",
+  "commit": "117768a56c82b514021b53be2c32fe4fe2d5779f",
+  "generated": "2024-01-24T00:38:26.816Z",
   "metadata": [
     {
       "__outstatic": {
@@ -122,8 +122,8 @@
     },
     {
       "__outstatic": {
-        "commit": "f1d49d79a01c1d85981f368c71944529e6583183",
-        "hash": "1723289772",
+        "commit": "117768a56c82b514021b53be2c32fe4fe2d5779f",
+        "hash": "701735016",
         "path": "outstatic/content/projects/bearbnb.md"
       },
       "author": {
