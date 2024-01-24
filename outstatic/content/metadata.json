@@ -1,6 +1,6 @@
 {
-  "commit": "117768a56c82b514021b53be2c32fe4fe2d5779f",
-  "generated": "2024-01-24T00:38:26.816Z",
+  "commit": "ed9a4bdb6954a1a4f61a7085a547adfe6bd2e9d9",
+  "generated": "2024-01-24T04:15:41.666Z",
   "metadata": [
     {
       "__outstatic": {
@@ -136,6 +136,30 @@
       "slug": "bearbnb",
       "status": "published",
       "title": "Bearbnb"
+    },
+    {
+      "__outstatic": {
+        "commit": "ed9a4bdb6954a1a4f61a7085a547adfe6bd2e9d9",
+        "hash": "2403647503",
+        "path": "outstatic/content/posts/beyond-social-media-hype.md"
+      },
+      "author": {
+        "name": "Emil Uzelac",
+        "picture": "https://avatars.githubusercontent.com/u/1784526?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/beyond-social-media-hype-gzOT.webp",
+      "description": "",
+      "publishedAt": "2024-01-24T03:36:24.032Z",
+      "slug": "beyond-social-media-hype",
+      "status": "draft",
+      "tags": [
+        {
+          "label": "Social Media",
+          "value": "socialMedia"
+        }
+      ],
+      "title": "Beyond Social Media Hype"
     }
   ]
 }
