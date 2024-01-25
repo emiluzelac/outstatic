@@ -5,8 +5,8 @@ import '../styles/index.css'
 export const metadata: Metadata = {
   metadataBase: new URL('https://outstatic.com'),
   title: {
-    default: 'Outstatic',
-    template: '%s | Outstatic'
+    default: 'IAM',
+    template: '%s | IAM'
   },
   description: 'A blog starter built with Outstatic.',
   openGraph: {
@@ -36,8 +36,8 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en">
-      <body>{children}</body>
+    <html lang="en" className="antialiased light">
+      <body className="bg-zinc-50 font-sans dark:bg-zinc-950">{children}</body>
     </html>
   )
 }
